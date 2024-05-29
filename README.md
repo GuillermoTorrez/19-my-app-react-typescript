@@ -14,6 +14,11 @@ pnpm dev
 bun dev
 ```
 
+## Notice
+you can install definity Type npm install @types/lodash or you can see the doc.
+[`install-definity-typed`] (https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/docs/admin.md)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
